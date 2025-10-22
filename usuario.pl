@@ -1,1 +1,1 @@
-datos_usuario(gravez, oficina, portatil, 'trabajo, programación, ').
+datos_usuario(alexi, gaming, portatil, 'juegos, programaciï¿½n,').
